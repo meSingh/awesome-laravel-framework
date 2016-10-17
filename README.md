@@ -447,3 +447,8 @@ Awesome Laravel
 * [Laravel Database Designer](http://biodesignrealworld.github.io/LaravelDatabaseDesigner/) - Graphical tool to create database schemas
 * [Laravel Model Generator Online](http://andressantibanez.com/laravel-model-generator/) - Make a laravel model online with migration code also generated
 * [StyleCI](https://styleci.io) - PHP Coding Style Service
+
+
+## Topic Specific Tutorials
+
+* [Creating Custom Blade Directives](https://mattstauffer.co/blog/custom-conditionals-with-laravels-blade-directives)
