@@ -142,6 +142,7 @@ Awesome Laravel
 * [Laravel Test Factory Generator](https://github.com/mpociot/laravel-test-factory-helper) - Generate Laravel test factories from your existing models
 * [Laravel-modules](https://github.com/nWidart/laravel-modules) - Easy Module Management In Laravel
 * [Blade SVG](https://github.com/adamwathan/blade-svg) - Easily use SVG icons in your Blade templates
+* [Google Places API Wrapper](https://github.com/SachinAgarwal1337/google-places-api) - Google Places API Wrapper for Laravel
 
 ##### Working with Javascript
 
