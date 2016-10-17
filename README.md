@@ -173,6 +173,7 @@ Awesome Laravel
 * [SearchIndex](https://github.com/spatie/searchindex) - Store and retrieve objects from Algolia or Elasticsearch
 * [Searchable](https://github.com/nicolaslopezj/searchable) - Trait that adds a simple search function to Eloquent models
 * [TNTSearch](https://github.com/teamtnt/tntsearch) - A fully featured full text search engine written in PHP
+* [Scout MySQL Driver](https://github.com/damiantw/laravel-scout-mysql-driver) - A laravel scout mysql driver
 
 ##### APIs
 
