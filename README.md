@@ -452,3 +452,4 @@ Awesome Laravel
 ## Topic Specific Tutorials
 
 * [Creating Custom Blade Directives](https://mattstauffer.co/blog/custom-conditionals-with-laravels-blade-directives)
+* [Adding Tagging System in Your App](https://laravel-news.com/2015/10/how-to-add-tagging-to-your-laravel-app/)
