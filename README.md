@@ -25,6 +25,7 @@ Awesome Laravel
 - [Jobs](#jobs)
 - [Hosted Development Tools](#hosted-development-tools)
 - [Miscellaneous](#miscellaneous)
+- [Topic Specific Tutorials](#topic-specific-tutorials)
 
 ## Essentials
 
@@ -311,6 +312,7 @@ Awesome Laravel
 * [Good Heads](http://goodheads.io/category/laravel/)
 * [Ryan Stelmat](http://ryanstelmat.com/tag/laravel/)
 
+
 ## Videos
 
 * [Laracasts](https://laracasts.com/)
@@ -457,3 +459,4 @@ Awesome Laravel
 * [Creating Custom Blade Directives](https://mattstauffer.co/blog/custom-conditionals-with-laravels-blade-directives)
 * [Adding Tagging System in Your App](https://laravel-news.com/2015/10/how-to-add-tagging-to-your-laravel-app/)
 * [Adding Email Verification](http://www.lubus.in/blog/adding-email-verification-in-laravel-5-3-app-149) 
+* [Automatically generate a sitemap in Laravel](https://murze.be/2016/08/automatically-generate-a-sitemap-in-laravel/)
