@@ -144,6 +144,7 @@ Awesome Laravel
 * [Laravel-modules](https://github.com/nWidart/laravel-modules) - Easy Module Management In Laravel
 * [Blade SVG](https://github.com/adamwathan/blade-svg) - Easily use SVG icons in your Blade templates
 * [Google Places API Wrapper](https://github.com/SachinAgarwal1337/google-places-api) - Google Places API Wrapper for Laravel
+* [QuickSand](https://github.com/tightenco/quicksand) - Easily schedule regular cleanup of old soft-deleted Eloquent data
 
 ##### Working with Javascript
 
