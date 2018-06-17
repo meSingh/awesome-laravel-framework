@@ -301,4 +301,5 @@ Awesome Laravel
 * [Adding Email Verification](http://www.lubus.in/blog/adding-email-verification-in-laravel-5-3-app-149) 
 * [Automatically generate a sitemap in Laravel](https://murze.be/2016/08/automatically-generate-a-sitemap-in-laravel/)
 * [Masking IDs in URLs using hashids in Laravel](https://sampo.co.uk/blog/masking-ids-in-urls-using-hash-ids-in-laravel)
+* [Advanced Laravel Eloquent usage](https://blog.pusher.com/advanced-laravel-eloquent-usage/)
 
