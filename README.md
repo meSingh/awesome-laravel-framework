@@ -6,23 +6,12 @@ Awesome Laravel
 ## Table of Contents
 
 - [Essentials](#essentials)
-- [Code Snippets](#code-snippets)
 - [Packages](#packages)
 - [Popular Packages](#popular-packages)
 - [Development Setup](#development-setup)
-- [Application Hosting](#application-hosting)
-- [Application Deployment](#application-deployment)
 - [Articles, Tutorials, Blogs, etc.](#articles-tutorials-blogs-etc)
-- [Videos](#videos)
-- [Conferences](#conferences)
-- [Books](#books)
-- [Starter Projects](#starter-projects)
 - [Codebases for Reference](#codebases-for-reference)
-- [Content Management Systems](#content-management-systems)
 - [Newsletters](#newsletters)
-- [Podcasts](#podcasts)
-- [Community](#community)
-- [Jobs](#jobs)
 - [Hosted Development Tools](#hosted-development-tools)
 - [Miscellaneous](#miscellaneous)
 - [Topic Specific Tutorials](#topic-specific-tutorials)
@@ -36,12 +25,6 @@ Awesome Laravel
 * [Lumen Documentation](https://lumen.laravel.com/docs)
 * [Laracasts](https://laracasts.com)
 * [Laravel News](https://laravel-news.com)
-
-
-## Code Snippets
-
-* [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca)
-* [Laravel 5.1 LTS Cheat Sheet ](https://summerblue.github.io/laravel5-cheatsheet/)
 
 ## Packages
 
@@ -200,6 +183,7 @@ Awesome Laravel
 
 * [Intervention Image Cache](https://github.com/Intervention/imagecache) - Caching extension for the Intervention Image Class
 * [Laravel HTMLMin](https://github.com/GrahamCampbell/Laravel-HTMLMin) - Blade/HTML/CSS/javascript minifier
+* [Optimizing the performance of a Laravel application](https://blog.pusher.com/optimizing-performance-laravel/)
 
 ##### Localization
 
@@ -213,23 +197,6 @@ Awesome Laravel
 * [Laravel Translation](https://github.com/waavi/translation) - Allow live edit/caching of translation entries, and localization of urls and Eloquent Model attributes.
 * [Laravel Translations Loader](https://github.com/spatie/laravel-translation-loader) - Store Laravel Localizations in Database
 
-##### Third-party Service Integration
-
-* [Laravel Algolia](https://github.com/vinkla/laravel-algolia) - Algolia API bridge
-* [Laravel Analytics](https://github.com/spatie/laravel-analytics) - An opinionated Laravel 5 package to retrieve pageviews and other data from Google Analytics
-* [Laravel DigitalOcean](https://github.com/GrahamCampbell/Laravel-DigitalOcean) - DigitalOceanV2 bridge
-* [Laravel Dropbox](https://github.com/GrahamCampbell/Laravel-Dropbox) - Dropbox bridge
-* [Laravel Facebook](https://github.com/vinkla/laravel-facebook) - Facebook API bridge
-* [Laravel GitHub](https://github.com/GrahamCampbell/Laravel-GitHub) - PHP GitHub API bridge
-* [Laravel GitLab](https://github.com/vinkla/laravel-gitlab) - GitLab API bridge
-* [Laravel Googletagmanager](https://github.com/spatie/laravel-googletagmanager) - Easily setup and send data to Google Tag Manager
-* [Laravel Instagram](https://github.com/vinkla/laravel-instagram) - Instagram API bridge
-* [Laravel Newsletter](https://github.com/spatie/laravel-newsletter) - Send newsletters with Mailchimp
-* [Laravel Parse](https://github.com/GrahamCampbell/Laravel-Parse) - PHP Parse SDK bridge
-* [Laravel Pusher](https://github.com/vinkla/laravel-pusher) - Pusher API bridge
-* [Laravel Pushwoosh](https://github.com/hoymultimedia/Laravel-Pushwoosh) - Pushwoosh API bridge
-* [Laravel Vimeo](https://github.com/vinkla/laravel-vimeo) - Vimeo API bridge
-
 
 ## Development Setup
 
@@ -239,33 +206,10 @@ Awesome Laravel
   * [Installation on  Windows](http://blog.teamtreehouse.com/laravel-homestead-on-windows)
 * [Valet](https://laravel.com/docs/5.3/valet/) - development environment for Mac minimalists
 * [LaraDock](https://github.com/LaraDock/laradock) - Run Laravel on Docker (Like Homstead but for Docker instead of Vagrant).
-* [LaraEdit Docker](https://github.com/laraedit/laraedit-docker) - Homestead environment in a single Docker container.
-* Install Laravel with Composer
- * [Windows](https://www.youtube.com/watch?v=m3D894qZKws)
- * [macOS or Linux](https://laracasts.com/lessons/laravel-installation-for-newbs)
-* [Laragon](https://laragon.org/) -  Isolated development environment on Windows
 
-## Application Hosting
-
-* [Forge](https://forge.laravel.com/) - Provision optimized PHP servers on Linode, DigitalOcean etc.
-  * [Server Management with Forge](https://laracasts.com/series/server-management-with-forge) (Laracasts)
-  * [Getting your first site up and running in Laravel Forge](https://mattstauffer.co/blog/getting-your-first-site-up-and-running-in-laravel-forge) (Matt Stauffer)
-  * [ForgeRecipes](http://forgerecipes.com/)
-* [FortRabbit](https://www.fortrabbit.com/laravel-hosting) ([Video](https://laracasts.com/lessons/from-zero-to-deploy-with-fortrabbit))
-* [PagodaBox](https://pagodabox.io/) ([Documentation](https://pagodabox.io/docs/framework_laravel))
-* [Heroku](https://www.heroku.com/) ([Tutorial](https://mattstauffer.co/blog/installing-a-laravel-app-on-heroku))
-* [IBM BlueMix](https://console.ng.bluemix.net/) ([Tutorial](https://developer.ibm.com/bluemix/2014/06/17/getting-started-laravel-bluemix/))
-* [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/) ([Tutorial](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/php-laravel-tutorial.html#php-laravel-tutorial-deploy))
-
-## Application Deployment
-
-* [Envoyer](https://envoyer.io/) - Zero down-time Deployer for PHP & Laravel projects
-* [Deployments with Envoyer](https://laracasts.com/series/envoyer) (Laracasts)
-* [Rocketeer](https://github.com/rocketeers/rocketeer) - Task runner and deployment package
 
 ## Articles, Tutorials, Blogs etc.
 
-* [Tuts+](http://code.tutsplus.com/categories/laravel)
 * [SitePoint](https://www.sitepoint.com/php/page/0/?filter[4047]=on)
 * [Christopher Pitt](https://medium.com/laravel-4)
 * [Culttt](http://culttt.com/tag/cribbb/)
@@ -313,71 +257,6 @@ Awesome Laravel
 * [Good Heads](http://goodheads.io/category/laravel/)
 * [Ryan Stelmat](http://ryanstelmat.com/tag/laravel/)
 
-
-## Videos
-
-* [Laracasts](https://laracasts.com/)
-* [Coursecode](https://www.codecourse.com/) ([YouTube](https://www.youtube.com/user/phpacademy/playlists))
-* [Tuts+](http://code.tutsplus.com/categories/laravel/courses)
-* [Udemy](https://www.udemy.com/courses/search/?q=laravel&lang=en)
-* [Treehouse](https://teamtreehouse.com/library/q:laravel)
-* [Duilio Palacios](https://www.youtube.com/user/silencedsg/videos)
-* [DevDojo](https://devdojo.com/search?value=laravel)
-* [Amitav Roy](https://www.youtube.com/channel/UC4gijXR8cM4gmEt9Olse-TQ/videos)
-* [Lynda](https://www.lynda.com/Laravel-training-tutorials/2779-0.html)
-* [Pluralsight](https://www.pluralsight.com/search?q=laravel&categories=course)
-* [Laracademy](https://laracademy.co/)
-
-## Books
-
-* [Laravel Starter](https://www.packtpub.com/web-development/laravel-starter) by Shawn McCool
-* [Laravel: Code Happy](https://leanpub.com/codehappy) by Dayle Rees
-* [Laravel: Code Bright](https://leanpub.com/codebright) by Dayle Rees
-* [Laravel: Code Smart](https://leanpub.com/codesmart) by Dayle Rees
-* [Laravel: From Apprentice To Artisan](https://leanpub.com/laravel) by Taylor Otwell
-* [Laravel 4 Cookbook](https://leanpub.com/laravel4cookbook) by Christopher Pitt and Taylor Otwell
-* [Laravel Testing Decoded](https://leanpub.com/laravel-testing-decoded) by Jeffrey Way
-* [Refactoring to Collections](https://adamwathan.me/refactoring-to-collections/) by Adam Wathan
-* [Implementing Laravel](https://leanpub.com/implementinglaravel) by Chris Fidao
-* [Getting Stuff Done with Laravel 4](https://leanpub.com/gettingstuffdonelaravel) by Chuck Heintzelman
-* [Laravel Application Development Blueprints](https://www.packtpub.com/web-development/laravel-application-development-blueprints) by Arda Kılıçdağı and Halil İbrahim Yılmaz
-* [Build APIs You Won't Hate](https://leanpub.com/build-apis-you-wont-hate) by Phil Sturgeon
-* [Integrating Front end Components with Web Applications](https://leanpub.com/frontend) by Maksim Surguy
-* [Laravel Design Patterns and Best Practices](https://www.packtpub.com/web-development/laravel-design-patterns-and-best-practices) by Arda Kılıçdağı and Halil İbrahim Yılmaz
-* [Step by Step Real World Application with Laravel 4](https://leanpub.com/real-world-laravel4) by Ibrahim Yusuf
-* [Learning Laravel 4 Application Development](https://www.packtpub.com/web-development/learning-laravel-4-application-development) by Hardik Dangar
-* [Getting Started with Laravel 4](https://www.packtpub.com/web-development/getting-started-laravel-4) by Raphaël Saunier
-* [Laravel Application Development Cookbook](https://www.packtpub.com/web-development/laravel-application-development-cookbook) by Terry Matula
-* [Building Web Applications Using Parse REST API](https://leanpub.com/building-web-applications-using-parse-rest-api) by Mhd Zaher Ghaibeh
-* [Laravel - My First Framework](https://leanpub.com/laravel-first-framework) by Maksim Surguy
-* [Easy Laravel 5](https://leanpub.com/easylaravel/) by W. Jason Gilmore
-* [Laravel 5 Essentials](https://www.packtpub.com/web-development/laravel-5-essentials) by Martin Bean
-* [Easy E-Commerce Using Laravel and Stripe](https://leanpub.com/easyecommerce) by W. Jason Gilmore and Eric L. Barnes
-* [Laravel 5.1 Beauty](https://leanpub.com/l5-beauty) by Chuck Heintzelman
-* [Design Patterns with PHP and Laravel](https://leanpub.com/larasign) by Kelt Dockins
-* [Mastering Laravel](https://www.packtpub.com/web-development/mastering-laravel) by Christopher John Pecoraro
-* [How to Build Real-Time Laravel Apps with Pusher](http://pusher-community.github.io/real-time-laravel/) by Pusher
-* [Learning Laravel's Eloquent](https://www.packtpub.com/web-development/learning-laravel%E2%80%99s-eloquent) by Francesco Malatesta
-* [Laravel 5 Learn Easy](https://leanpub.com/laravel5learneasy) by Sanjib Sinha
-* [Laravel and AngularJS](https://leanpub.com/laravel-and-angularjs) by Daniel Schmitz and Daniel Pedrinha Georgii
-* [Laravel Collections Unraveled](https://leanpub.com/laravelcollectionsunraveled) by Jeff Madsen
-* [Writing APIs With Lumen](https://leanpub.com/lumen-apis) by Paul Redmond
-* [The Laravel Survival Guide](https://leanpub.com/laravelsurvivalguide) by Tony Lea
-* [Laraboot: Laravel 5 For Beginners](https://leanpub.com/laravel-5-for-beginners-laraboot) by Bill Keck
-* [Laravel 5.3 For Beginners](https://leanpub.com/laravel-5-3-for-beginners) by Bill Keck
-
-## Starter Projects
-
-* [Laracogs](https://github.com/yabhq/laracogs)
-* [Laravel 5.2 Boilerplate](https://github.com/rappasoft/laravel-5-boilerplate)
-* [Laravel 5 Angular Material Starter](https://github.com/jadjoubran/laravel5-angular-material-starter)
-* [Acacha adminlte-laravel](https://github.com/acacha/adminlte-laravel)
-* [Laravel Hackathon Starter](https://github.com/unicodeveloper/laravel-hackathon-starter)
-* [Laravel API](https://github.com/joselfonseca/laravel-api)
-* [Laravel Angular AdminLTE](https://github.com/silverbux/laravel-angular-admin)
-* [Backpack for Laravel](https://backpackforlaravel.com)
-* [Starter Someline](https://starter.someline.com)
-
 ## Codebases for Reference
 
 * [92Five](https://github.com/chintanbanugaria/92five) - Project management application
@@ -399,50 +278,10 @@ Awesome Laravel
 * [Vuedo](https://github.com/Vuedo/vuedo) - Vuedo is blog platform, built with Laravel and Vue.js
 * [Screeenly](https://github.com/stefanzweifel/screeenly) - Create website screenshots through an API
 
-## Content Management Systems
-
-* [OctoberCMS](http://octobercms.com/)
-* [PyroCMS](https://www.pyrocms.com/)
-* [Lavalite](http://www.lavalite.org/)
-* [Bootstrap CMS](https://github.com/BootstrapCMS/CMS)
-* [TypiCMS](https://github.com/typicms/base)
-* [Asgard CMS](https://asgardcms.com/)
-* [Microweber](https://microweber.com/)
-* [Coaster CMS](https://www.coastercms.org/)
-* [Statamic](https://statamic.com/)
-
 ## Newsletters
 
 * [Laravel News](https://laravel-news.com/) ([archive](https://laravel-news.com/archive/))
 * [Laravel Weekly](http://laravelweekly.com/)
-
-## Podcasts
-
-* [The Laravel Podcast](http://www.laravelpodcast.com/)
-* [The Laravel News Podcast](https://laravel-news.com/podcast/ )
-* [The Laracasts Snippet](https://laracasts.simplecast.fm/)
-* [Hecho en Laravel (Spanish)](http://hechoenlaravel.com)
-
-## Community
-
-* [Laracasts Forum](https://laracasts.com/discuss)
-* [Laravel.io Forum](http://laravel.io/forum)
-* [Larachat Slack](https://larachat.slack.com/) ([Signup](https://larachat.typeform.com/to/wqvupv))
-* [Gitter](https://gitter.im/laravel/laravel)
-* [IRC Channel](http://laravel.io/chat)
-* [StackOverflow](http://stackoverflow.com/questions/tagged/laravel)
-* [Twitter](https://twitter.com/laravelphp)
-* [Google+](https://plus.google.com/communities/106838454910116161868)
-* [Reddit](https://www.reddit.com/r/laravel)
-* [Quora](https://www.quora.com/topic/Laravel)
-* [Facebook](https://www.facebook.com/LaravelCommunity)
-* [LinkedIn](https://www.linkedin.com/groups/4419933/profile)
-
-## Jobs
-
-* [LaraJobs](https://larajobs.com/)
-* [Laravel Gurus](https://laravelgurus.com/)
-* [With Laravel](http://withlaravel.com/)
 
 ## Hosted Development Tools
 
@@ -462,4 +301,4 @@ Awesome Laravel
 * [Adding Email Verification](http://www.lubus.in/blog/adding-email-verification-in-laravel-5-3-app-149) 
 * [Automatically generate a sitemap in Laravel](https://murze.be/2016/08/automatically-generate-a-sitemap-in-laravel/)
 * [Masking IDs in URLs using hashids in Laravel](https://sampo.co.uk/blog/masking-ids-in-urls-using-hash-ids-in-laravel)
-* [Optimizing the performance of a Laravel application](https://blog.pusher.com/optimizing-performance-laravel/)
+
